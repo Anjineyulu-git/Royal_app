@@ -1,2 +1,4 @@
 # Royal_app
-updated 
+updated
+#!/bin/bash
+cd /home/temp 
